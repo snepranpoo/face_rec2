@@ -1,5 +1,4 @@
-![IMG-20250110-WA0004](https://github.com/user-attachments/assets/bab57790-7dad-463e-8780-fc98070bd751)
-![IMG-20250110-WA0005](https://github.com/user-attachments/assets/603db82e-606c-463f-a84e-9fa11bb8d2d3)
+
 This repository contains a Python-based  Face Recognition project a type of machine learning or deep learning model designed to identify or verify a person's identity by analyzing and comparing facial features in images or videos. These models are widely used in applications like security systems, user authentication, social media tagging, and more.
 
 ** Objective:
@@ -34,6 +33,7 @@ Evaluate accuracy, precision, recall, and speed to optimize the system for high 
 - NumPy library
 - A pre-trained face model from Google Teachable Machine
 
+![WhatsApp Image 2025-01-14 at 6 33 09 PM](https://github.com/user-attachments/assets/58fdd70d-6a1d-4ed1-8d91-6414d06c4032)
 
 ** Installlation of facefinder+ 
 >> Step1: Open chrome and search for Google Teachable Machines website(https://teachablemachine.withgoogle.com/) and click on Get started. 
