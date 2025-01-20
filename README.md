@@ -33,20 +33,25 @@ Evaluate accuracy, precision, recall, and speed to optimize the system for high 
 - NumPy library
 - A pre-trained face model from Google Teachable Machine
 
-![WhatsApp Image 2025-01-14 at 6 33 09 PM](https://github.com/user-attachments/assets/58fdd70d-6a1d-4ed1-8d91-6414d06c4032)
+![WhatsApp Image 2025-01-14 at 6 33 09 PM]
+![IMG-20250110-WA0009](https://github.com/user-attachments/assets/7645db81-4077-4c6b-9e91-d157d3027dfe)
+![IMG-20250110-WA0004](https://github.com/user-attachments/assets/50d8387c-741e-44f6-9f6c-09fc80a86769)
 
 ** Installlation of facefinder+ 
->> Step1: Open chrome and search for Google Teachable Machines website(https://teachablemachine.withgoogle.com/) and click on Get started. 
-
+>> Step1: Open chrome and search for Google Teachable Machines website(https://teachablemachine.withgoogle.com/) and click on Get started.
+>> ![IMG-20250110-WA0005](https://github.com/user-attachments/assets/0987cd3e-4b2c-4fe9-9d06-13dd27e10f05)
 
 >> Step2: And under the New Project section, select the Image Model folder.
 
+![IMG-20250110-WA0014](https://github.com/user-attachments/assets/101a3efa-b4b3-4207-8e77-8bcb25ea9e23)
 
 >> Step3: Select the Standard Image Model option.
 
+![IMG-20250110-WA0006](https://github.com/user-attachments/assets/486e4b2e-b765-4cee-85e4-84602c7eccc4)
+![IMG-20250110-WA0008](https://github.com/user-attachments/assets/2383156e-fea8-4bc2-acad-c2adae8fd03b)
 
 >> Step4: Determine the Required classes and upload the photos using webcam and google drive, And Train the Model. You could see the comparision percentage for the given classes.
-
+![IMG-20250110-WA0007](https://github.com/user-attachments/assets/453fca32-a66f-43f8-8d26-84e4e953f4d4)
 
 >> Step5: Click on Export the Model.
 
